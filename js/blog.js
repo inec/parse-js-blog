@@ -3,7 +3,7 @@ $(function() {
 	Parse.$ = jQuery;
 
 	// Replace this line with the one on your Quickstart Guide Page
-	Parse.initialize("HC87tn6aA7c3sYx9X0vwwLVXeqHDRMYYmrUBK5zv", "3piNGGnRMhvWo8u9pKD9TDc1MJlWhlvK78Vr3fHo");
+ Parse.initialize("lM5eaAzMJNSD6AItaGA5PQcqe71JgZ50b24bBBk2", "PmNmGJhEewpSj2oDH1Zd2udOVBaIBfdBFtqwLfJ8");
 
 	var Blog = Parse.Object.extend("Blog"),
 		Blogs = Parse.Collection.extend({
